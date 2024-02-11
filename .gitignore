@@ -1,0 +1,11 @@
+feather
+bin
+lib
+lib64
+logs
+share
+*.pyc
+*~
+*#
+pyvenv.cfg
+style.json
